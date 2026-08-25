@@ -1,3 +1,11 @@
+# Cloud Intrusion Detection System
+
+## 🚀 Live Demo
+
+👉 **[Click here to open the deployed application](https://majorproject-five.vercel.app/)**
+
+An AI/ML-based Cloud Intrusion Detection System designed to analyze network traffic and identify potential malicious activities.
+
 # Cloud Intrusion Detection System (Cloud-IDS) using Machine Learning
 
 [![Version](https://img.shields.io/badge/Release-v2.5.0-blue.svg)](https://github.com/)
